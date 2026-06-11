@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-service-desk
+description: "BIAN Service Domain: Service Desk (Operate pattern, Business Support)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - operate
+annotations:
+  bian/business-area: "Business Support"
+  bian/business-domain: "Technology and Operations"
+  bian/asset-type: "Service Ticket"
+  bian/control-record: "Service Ticket Operating Session"
